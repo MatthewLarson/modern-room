@@ -1,0 +1,16 @@
+{
+  "materialSlots": {
+    "PictureFrame": "mat-7b3fdcde-988e-4825-b1c7-1ead9b368a21",
+    "Picture": "mat-1f8b7b62-ac92-466d-97ed-9ede114b6dad",
+    "Paintings": "mat-3d920b3d-1e45-4b2a-aa21-a6239e093f56",
+    "Room_Backdrop": "mat-a016d32f-1ccd-4df4-a115-4c4f0de70914",
+    "Room_Plaster": "mat-a9da6760-a909-4ad2-9448-b6f9dcedc220",
+    "Room_Metal": "mat-637a5ad3-38c0-4f04-b95e-e2261e6e843e",
+    "Room_Curtains": "mat-d603a0d5-9689-4998-ba68-d1b3bd39d686",
+    "Room_DoorFrame": "mat-82d4ffb5-aebb-4fef-97c8-9fae9b46ff58",
+    "Room_Floor": "mat-2e86fb6e-f4a9-4fad-b202-c4b96566c9d3",
+    "Room_Light": "mat-22020fc2-67ff-45e1-a6cd-623bd5b89c69",
+    "Room_Rug": "mat-225a5aa6-fff7-476e-bd9d-bb34ec277f25",
+    "Room_Glass": "mat-79ce158f-490c-401b-af67-1c4b0c5535e0"
+  }
+}

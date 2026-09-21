@@ -1,0 +1,408 @@
+{
+  "version": 1,
+  "rendererVersion": 1,
+  "entries": {
+    "@materials/mat-004ae9db-1298-4689-bddc-1f7372780952": {
+      "inputHash": "3eb77e498488989f",
+      "file": "thumbnails/@materials/mat-004ae9db-1298-4689-bddc-1f7372780952.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-12d80140-f262-471e-8c26-1b83c26345e3": {
+      "inputHash": "f6419ace69db9950",
+      "file": "thumbnails/@materials/mat-12d80140-f262-471e-8c26-1b83c26345e3.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-1f8b7b62-ac92-466d-97ed-9ede114b6dad": {
+      "inputHash": "1230475e082e99cb",
+      "file": "thumbnails/@materials/mat-1f8b7b62-ac92-466d-97ed-9ede114b6dad.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-22020fc2-67ff-45e1-a6cd-623bd5b89c69": {
+      "inputHash": "1ef514b530f449ea",
+      "file": "thumbnails/@materials/mat-22020fc2-67ff-45e1-a6cd-623bd5b89c69.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-225a5aa6-fff7-476e-bd9d-bb34ec277f25": {
+      "inputHash": "fa5456d8b3769027",
+      "file": "thumbnails/@materials/mat-225a5aa6-fff7-476e-bd9d-bb34ec277f25.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-24ea37a8-5f0d-4a1a-bfd5-af33d18c3f6f": {
+      "inputHash": "6d54abfae5ba26ef",
+      "file": "thumbnails/@materials/mat-24ea37a8-5f0d-4a1a-bfd5-af33d18c3f6f.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-2e86fb6e-f4a9-4fad-b202-c4b96566c9d3": {
+      "inputHash": "ed8982c8daa78491",
+      "file": "thumbnails/@materials/mat-2e86fb6e-f4a9-4fad-b202-c4b96566c9d3.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-39a905a1-7f16-4bf0-bf03-accd5c495144": {
+      "inputHash": "84bce68dc7507483",
+      "file": "thumbnails/@materials/mat-39a905a1-7f16-4bf0-bf03-accd5c495144.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-3d920b3d-1e45-4b2a-aa21-a6239e093f56": {
+      "inputHash": "f28785cfd194a397",
+      "file": "thumbnails/@materials/mat-3d920b3d-1e45-4b2a-aa21-a6239e093f56.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-3e0144aa-202b-4ff2-817e-10593b70b23a": {
+      "inputHash": "0f415ff850dfcee5",
+      "file": "thumbnails/@materials/mat-3e0144aa-202b-4ff2-817e-10593b70b23a.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-4884fc10-96b6-4642-b6b6-ac312920cec8": {
+      "inputHash": "f09ed0094a41ba19",
+      "file": "thumbnails/@materials/mat-4884fc10-96b6-4642-b6b6-ac312920cec8.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-506d2ecd-b1be-479e-b74e-5a6d60dfa72e": {
+      "inputHash": "7aea0def8e7fdb60",
+      "file": "thumbnails/@materials/mat-506d2ecd-b1be-479e-b74e-5a6d60dfa72e.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-60585a23-d8e3-4cd8-a1be-e49af6ce6bf1": {
+      "inputHash": "311e6d40b848f82a",
+      "file": "thumbnails/@materials/mat-60585a23-d8e3-4cd8-a1be-e49af6ce6bf1.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-637a5ad3-38c0-4f04-b95e-e2261e6e843e": {
+      "inputHash": "d8881002737496ef",
+      "file": "thumbnails/@materials/mat-637a5ad3-38c0-4f04-b95e-e2261e6e843e.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-65061363-b993-492b-ac66-94c1a30fab92": {
+      "inputHash": "bd7e8526dc5dcf98",
+      "file": "thumbnails/@materials/mat-65061363-b993-492b-ac66-94c1a30fab92.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-6baaa8ed-66ad-46e3-9f74-e7ef17480da8": {
+      "inputHash": "41bff479de50a002",
+      "file": "thumbnails/@materials/mat-6baaa8ed-66ad-46e3-9f74-e7ef17480da8.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-71ec2b3a-43d8-4b1e-8e72-2bafc3427ede": {
+      "inputHash": "678210d99c8c4474",
+      "file": "thumbnails/@materials/mat-71ec2b3a-43d8-4b1e-8e72-2bafc3427ede.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-79ce158f-490c-401b-af67-1c4b0c5535e0": {
+      "inputHash": "5e5143d55614c307",
+      "file": "thumbnails/@materials/mat-79ce158f-490c-401b-af67-1c4b0c5535e0.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-7b3fdcde-988e-4825-b1c7-1ead9b368a21": {
+      "inputHash": "976ff1e746a5b426",
+      "file": "thumbnails/@materials/mat-7b3fdcde-988e-4825-b1c7-1ead9b368a21.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-82d4ffb5-aebb-4fef-97c8-9fae9b46ff58": {
+      "inputHash": "21a490781c3a603c",
+      "file": "thumbnails/@materials/mat-82d4ffb5-aebb-4fef-97c8-9fae9b46ff58.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-85c3e683-603a-4f4d-b3b8-b07b4c8f6312": {
+      "inputHash": "553a0fa6606bc294",
+      "file": "thumbnails/@materials/mat-85c3e683-603a-4f4d-b3b8-b07b4c8f6312.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-a016d32f-1ccd-4df4-a115-4c4f0de70914": {
+      "inputHash": "a0d235893d3655f5",
+      "file": "thumbnails/@materials/mat-a016d32f-1ccd-4df4-a115-4c4f0de70914.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-a9da6760-a909-4ad2-9448-b6f9dcedc220": {
+      "inputHash": "3f206cc2cb0b6c75",
+      "file": "thumbnails/@materials/mat-a9da6760-a909-4ad2-9448-b6f9dcedc220.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-aa25b8f6-2cc2-450b-ae1b-fa96c56f24c3": {
+      "inputHash": "b5b66d8119cca734",
+      "file": "thumbnails/@materials/mat-aa25b8f6-2cc2-450b-ae1b-fa96c56f24c3.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-b2c4939f-a2a5-4ccb-b99b-3b2d402c986f": {
+      "inputHash": "2b4fa1f2cb03f22a",
+      "file": "thumbnails/@materials/mat-b2c4939f-a2a5-4ccb-b99b-3b2d402c986f.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-c5ccb39e-99b7-483c-a436-10618912824a": {
+      "inputHash": "c398c6e82a6c55ba",
+      "file": "thumbnails/@materials/mat-c5ccb39e-99b7-483c-a436-10618912824a.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-c6e4347c-a480-4052-8ff5-6ceb315c534e": {
+      "inputHash": "420826164817eaf4",
+      "file": "thumbnails/@materials/mat-c6e4347c-a480-4052-8ff5-6ceb315c534e.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-ca2d07d9-0ecd-47d1-a7ca-cec2e160195b": {
+      "inputHash": "326de6665f01e4a3",
+      "file": "thumbnails/@materials/mat-ca2d07d9-0ecd-47d1-a7ca-cec2e160195b.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-ceiling": {
+      "inputHash": "220ee3bdf8d37625",
+      "file": "thumbnails/@materials/mat-ceiling.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-d603a0d5-9689-4998-ba68-d1b3bd39d686": {
+      "inputHash": "4e8958d369b9932c",
+      "file": "thumbnails/@materials/mat-d603a0d5-9689-4998-ba68-d1b3bd39d686.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-default": {
+      "inputHash": "eccf03f485688ce9",
+      "file": "thumbnails/@materials/mat-default.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-floor": {
+      "inputHash": "4faeb6a28ac0884c",
+      "file": "thumbnails/@materials/mat-floor.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-wall": {
+      "inputHash": "8b1c33f064be0752",
+      "file": "thumbnails/@materials/mat-wall.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/cover-thumb.webp": {
+      "inputHash": "4ae53ef4cb322298",
+      "file": "thumbnails/media/cover-thumb.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/cover.webp": {
+      "inputHash": "1b836ec102db620f",
+      "file": "thumbnails/media/cover.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/screenshot-0.webp": {
+      "inputHash": "676128ec36712590",
+      "file": "thumbnails/media/screenshot-0.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-1.webp": {
+      "inputHash": "2b8c81aaca4b0bc6",
+      "file": "thumbnails/media/screenshot-1.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-2.webp": {
+      "inputHash": "17366c4d81f8e3c7",
+      "file": "thumbnails/media/screenshot-2.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "models/modern-dining-room-optimized.glb": {
+      "inputHash": "e9436e57f5e388e1",
+      "file": "thumbnails/models/modern-dining-room-optimized.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/modern-dining-room-optimized.glb": {
+      "inputHash": "fcff3399238131aa",
+      "file": "thumbnails/originals/modern-dining-room-optimized.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room-optimized/floor-wood-arm-1k-92b006e3.jpg": {
+      "inputHash": "0f61b7fcaefe2802",
+      "file": "thumbnails/textures/modern-dining-room-optimized/floor-wood-arm-1k-92b006e3.jpg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room-optimized/floor-wood-diff-1k-c112a8fb.jpg": {
+      "inputHash": "8d8d49bbf3aca668",
+      "file": "thumbnails/textures/modern-dining-room-optimized/floor-wood-diff-1k-c112a8fb.jpg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room-optimized/floor-wood-nor-1k-ec501e1c.jpg": {
+      "inputHash": "74833819fb380c42",
+      "file": "thumbnails/textures/modern-dining-room-optimized/floor-wood-nor-1k-ec501e1c.jpg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room-optimized/image-10-6116bd08.png": {
+      "inputHash": "28630c9885d2add2",
+      "file": "thumbnails/textures/modern-dining-room-optimized/image-10-6116bd08.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room-optimized/image-11-7b0b801c.png": {
+      "inputHash": "9cb0156f25834402",
+      "file": "thumbnails/textures/modern-dining-room-optimized/image-11-7b0b801c.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room-optimized/image-12-b420840b.png": {
+      "inputHash": "edb7ca4d45b1c71a",
+      "file": "thumbnails/textures/modern-dining-room-optimized/image-12-b420840b.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room-optimized/rug-arm-1k-b9fcefc4.png": {
+      "inputHash": "933ff795af788664",
+      "file": "thumbnails/textures/modern-dining-room-optimized/rug-arm-1k-b9fcefc4.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room-optimized/rug-diff-1k-4ad53de2.png": {
+      "inputHash": "f4ff9a92157921e8",
+      "file": "thumbnails/textures/modern-dining-room-optimized/rug-diff-1k-4ad53de2.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room-optimized/wall-plaster-arm-1k-cd927f46.jpg": {
+      "inputHash": "d3918c856470abfd",
+      "file": "thumbnails/textures/modern-dining-room-optimized/wall-plaster-arm-1k-cd927f46.jpg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room-optimized/wall-plaster-diff-1k-ddabde5e.jpg": {
+      "inputHash": "669d4f1623f8f4d8",
+      "file": "thumbnails/textures/modern-dining-room-optimized/wall-plaster-diff-1k-ddabde5e.jpg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room-optimized/wall-plaster-nor-1k-504e1f7b.jpg": {
+      "inputHash": "e09d8df8e78dd05d",
+      "file": "thumbnails/textures/modern-dining-room-optimized/wall-plaster-nor-1k-504e1f7b.jpg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room/diffuse-4d69492b.png": {
+      "inputHash": "4d9552c75d205b31",
+      "file": "thumbnails/textures/modern-dining-room/diffuse-4d69492b.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room/diffuse-53e736a9.png": {
+      "inputHash": "f69b8ff46f24c304",
+      "file": "thumbnails/textures/modern-dining-room/diffuse-53e736a9.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room/diffuse-6116bd08.png": {
+      "inputHash": "28630c9885d2add2",
+      "file": "thumbnails/textures/modern-dining-room/diffuse-6116bd08.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room/diffuse-6ece9880.png": {
+      "inputHash": "baf9563c4681de2b",
+      "file": "thumbnails/textures/modern-dining-room/diffuse-6ece9880.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room/diffuse-7b0b801c.png": {
+      "inputHash": "9cb0156f25834402",
+      "file": "thumbnails/textures/modern-dining-room/diffuse-7b0b801c.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room/diffuse-832542d7.png": {
+      "inputHash": "06fa00f0e571660b",
+      "file": "thumbnails/textures/modern-dining-room/diffuse-832542d7.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room/diffuse-9ae6b370.png": {
+      "inputHash": "b3a20bff05b36b36",
+      "file": "thumbnails/textures/modern-dining-room/diffuse-9ae6b370.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room/diffuse-b420840b.png": {
+      "inputHash": "edb7ca4d45b1c71a",
+      "file": "thumbnails/textures/modern-dining-room/diffuse-b420840b.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room/diffuse-c15b5aa3.png": {
+      "inputHash": "2e6c164b850de99a",
+      "file": "thumbnails/textures/modern-dining-room/diffuse-c15b5aa3.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room/diffuse-d85ef69a.png": {
+      "inputHash": "05c0726f523a117c",
+      "file": "thumbnails/textures/modern-dining-room/diffuse-d85ef69a.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room/diffuse-de2356bd.png": {
+      "inputHash": "31097a22092a63f8",
+      "file": "thumbnails/textures/modern-dining-room/diffuse-de2356bd.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room/diffuse-e1a14aff.png": {
+      "inputHash": "47baca01b7697131",
+      "file": "thumbnails/textures/modern-dining-room/diffuse-e1a14aff.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room/diffuse-f4bc0881.png": {
+      "inputHash": "bc786feaf0ab7a8e",
+      "file": "thumbnails/textures/modern-dining-room/diffuse-f4bc0881.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room/diffuse-f84caa28.png": {
+      "inputHash": "329da3fc2f2c8c22",
+      "file": "thumbnails/textures/modern-dining-room/diffuse-f84caa28.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room/normal-fb7744e4.png": {
+      "inputHash": "c8994d3cb1ba0c6a",
+      "file": "thumbnails/textures/modern-dining-room/normal-fb7744e4.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/modern-dining-room/roughness-7eccc05b.png": {
+      "inputHash": "1287e1137df1d7db",
+      "file": "thumbnails/textures/modern-dining-room/roughness-7eccc05b.png.webp",
+      "width": 256,
+      "height": 256
+    }
+  }
+}

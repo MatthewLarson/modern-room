@@ -1,0 +1,212 @@
+{
+  "schemaVersion": "1.0",
+  "id": "modern-room",
+  "name": "Modern Room",
+  "version": "0.1.0",
+  "type": "room-pack",
+  "entry": {
+    "setup": "setup.json"
+  },
+  "assets": [
+    "media/cover-thumb.webp",
+    "media/cover.webp",
+    "media/screenshot-0.webp",
+    "media/screenshot-1.webp",
+    "media/screenshot-2.webp",
+    "models/modern-dining-room-optimized.glb",
+    "models/modern-dining-room-optimized.meta.json",
+    "textures/modern-dining-room-optimized/floor-wood-arm-1k-92b006e3.jpg",
+    "textures/modern-dining-room-optimized/floor-wood-diff-1k-c112a8fb.jpg",
+    "textures/modern-dining-room-optimized/floor-wood-nor-1k-ec501e1c.jpg",
+    "textures/modern-dining-room-optimized/image-10-6116bd08.png",
+    "textures/modern-dining-room-optimized/image-11-7b0b801c.png",
+    "textures/modern-dining-room-optimized/image-12-b420840b.png",
+    "textures/modern-dining-room-optimized/rug-arm-1k-b9fcefc4.png",
+    "textures/modern-dining-room-optimized/rug-diff-1k-4ad53de2.png",
+    "textures/modern-dining-room-optimized/wall-plaster-arm-1k-cd927f46.jpg",
+    "textures/modern-dining-room-optimized/wall-plaster-diff-1k-ddabde5e.jpg",
+    "textures/modern-dining-room-optimized/wall-plaster-nor-1k-504e1f7b.jpg",
+    "textures/modern-dining-room/diffuse-4d69492b.png",
+    "textures/modern-dining-room/diffuse-53e736a9.png",
+    "textures/modern-dining-room/diffuse-6116bd08.png",
+    "textures/modern-dining-room/diffuse-6ece9880.png",
+    "textures/modern-dining-room/diffuse-7b0b801c.png",
+    "textures/modern-dining-room/diffuse-832542d7.png",
+    "textures/modern-dining-room/diffuse-9ae6b370.png",
+    "textures/modern-dining-room/diffuse-b420840b.png",
+    "textures/modern-dining-room/diffuse-c15b5aa3.png",
+    "textures/modern-dining-room/diffuse-d85ef69a.png",
+    "textures/modern-dining-room/diffuse-de2356bd.png",
+    "textures/modern-dining-room/diffuse-e1a14aff.png",
+    "textures/modern-dining-room/diffuse-f4bc0881.png",
+    "textures/modern-dining-room/diffuse-f84caa28.png",
+    "textures/modern-dining-room/normal-fb7744e4.png",
+    "textures/modern-dining-room/roughness-7eccc05b.png"
+  ],
+  "compatibility": {
+    "engine": ">=0.1 <1.0"
+  },
+  "license": "MIT",
+  "tags": [
+    "dining-room",
+    "architecture",
+    "modern",
+    "house",
+    "minimalist",
+    "room"
+  ],
+  "credits": [
+    {
+      "id": "credit-be59a4e9-a2e2-4c78-9f21-4c4a0bd5d510",
+      "paths": [
+        "textures/modern-dining-room/diffuse-4d69492b.png",
+        "textures/modern-dining-room/diffuse-53e736a9.png",
+        "textures/modern-dining-room/diffuse-6116bd08.png",
+        "textures/modern-dining-room/diffuse-6ece9880.png",
+        "textures/modern-dining-room/diffuse-7b0b801c.png",
+        "textures/modern-dining-room/diffuse-832542d7.png",
+        "textures/modern-dining-room/diffuse-9ae6b370.png",
+        "textures/modern-dining-room/diffuse-b420840b.png",
+        "textures/modern-dining-room/diffuse-c15b5aa3.png",
+        "textures/modern-dining-room/diffuse-d85ef69a.png",
+        "textures/modern-dining-room/diffuse-de2356bd.png",
+        "textures/modern-dining-room/diffuse-e1a14aff.png",
+        "textures/modern-dining-room/diffuse-f4bc0881.png",
+        "textures/modern-dining-room/diffuse-f84caa28.png",
+        "textures/modern-dining-room/normal-fb7744e4.png",
+        "textures/modern-dining-room/roughness-7eccc05b.png"
+      ],
+      "origin": "third-party",
+      "title": "Modern Dining Room",
+      "creator": "dylanheyes",
+      "creatorUrl": "https://sketchfab.com/dylanheyes",
+      "sourceUrl": "https://sketchfab.com/3d-models/modern-dining-room-df3f3c9f6233447eb8b7ee129f3bace5",
+      "licenseName": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "recordedAt": "2026-09-21T19:35:47.434Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-21T19:35:47.434Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-f6b1a792-66d2-4845-bd74-3a1e7e061088",
+      "paths": [
+        "models/modern-dining-room-optimized.glb",
+        "models/modern-dining-room-optimized.meta.json",
+        "textures/modern-dining-room-optimized/floor-wood-arm-1k-92b006e3.jpg",
+        "textures/modern-dining-room-optimized/floor-wood-diff-1k-c112a8fb.jpg",
+        "textures/modern-dining-room-optimized/floor-wood-nor-1k-ec501e1c.jpg",
+        "textures/modern-dining-room-optimized/image-10-6116bd08.png",
+        "textures/modern-dining-room-optimized/image-11-7b0b801c.png",
+        "textures/modern-dining-room-optimized/image-12-b420840b.png",
+        "textures/modern-dining-room-optimized/rug-arm-1k-b9fcefc4.png",
+        "textures/modern-dining-room-optimized/rug-diff-1k-4ad53de2.png",
+        "textures/modern-dining-room-optimized/wall-plaster-arm-1k-cd927f46.jpg",
+        "textures/modern-dining-room-optimized/wall-plaster-diff-1k-ddabde5e.jpg",
+        "textures/modern-dining-room-optimized/wall-plaster-nor-1k-504e1f7b.jpg"
+      ],
+      "origin": "third-party",
+      "title": "Modern Dining Room",
+      "creator": "dylanheyes",
+      "creatorUrl": "https://sketchfab.com/dylanheyes",
+      "sourceUrl": "https://sketchfab.com/3d-models/modern-dining-room-df3f3c9f6233447eb8b7ee129f3bace5",
+      "licenseName": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "recordedAt": "2026-09-21T19:36:49.480Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-21T19:36:49.480Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-831a5af3-5761-4401-bf73-fe2914cc9ded",
+      "paths": [
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-21T22:18:14.606Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-21T22:18:14.606Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-1908e1ab-afaa-4fa4-b59e-ed5ac8a75e16",
+      "paths": [
+        "media/screenshot-0.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-21T22:18:36.373Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-21T22:18:36.373Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-feca1b87-1108-4abf-abfe-b70e96f731f6",
+      "paths": [
+        "media/screenshot-1.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-21T22:18:54.780Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-21T22:18:54.780Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-72b1b490-3032-4ecc-b549-5962750c1a77",
+      "paths": [
+        "media/screenshot-2.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-21T22:19:07.263Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-21T22:19:07.263Z",
+        "signedName": "Matt Larson"
+      }
+    }
+  ],
+  "slug": "modern-room",
+  "summary": "A modern dining room",
+  "description": "A modern dining room for pleasant gaming experience.",
+  "category": "room-modern",
+  "coverImage": "media/cover.webp",
+  "screenshots": [
+    {
+      "path": "media/screenshot-2.webp",
+      "crop": {
+        "x": 0.039377232926742514,
+        "y": 0,
+        "w": 0.9065735892961023,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-0.webp",
+      "crop": {
+        "x": 0.016516316162878547,
+        "y": 0,
+        "w": 0.9082785808147175,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-1.webp",
+      "crop": {
+        "x": 0.02144066356545491,
+        "y": 0,
+        "w": 0.9406124830479072,
+        "h": 1
+      }
+    }
+  ]
+}
