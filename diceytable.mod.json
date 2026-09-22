@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "modern-room",
   "name": "Modern Room",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "room-pack",
   "entry": {
     "setup": "setup.json"
